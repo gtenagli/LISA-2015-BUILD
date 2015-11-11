@@ -11,10 +11,10 @@ import json
 
 
 # Global Variables
-team_name = 'TheShields'                        # The Name of the Team
-team_auth = ''                                  # The Team Authentication Tocken
-server_url = 'http://192.168.59.103:8080/api'   # URL of the SERVER API
-server_ws = 'ws://192.168.59.103:8080/ws'       # URL of the Sensors Websocket
+team_name = 'FailWhale'                        # The Name of the Team
+team_auth = '1234'                                  # The Team Authentication Tocken
+server_url = 'http://emcmarscharlie.cloudapp.net:8080/api'   # URL of the SERVER API
+server_ws = 'ws://emcmarscharlie.cloudapp.net:8080/ws'       # URL of the Sensors Websocket
 
 
 # Server Method Calls ------------------------------------------------
