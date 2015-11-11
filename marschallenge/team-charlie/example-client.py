@@ -9,7 +9,6 @@ import requests
 import websocket
 import json
 
-
 # Global Variables
 team_name = 'FailWhale'                        # The Name of the Team
 team_auth = '1234'                                  # The Team Authentication Tocken
